@@ -1,4 +1,4 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://srishticoursera.vercel.app/)
+# SrishtiCoursera Online Education Platform (MERN App) [Website Link](https://srishticoursera.vercel.app/)
 
 ![Main Page](images/mainpage.png)
 

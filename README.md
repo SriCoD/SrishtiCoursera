@@ -1,10 +1,10 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
+# SrishtiCoursera Online Education Platform (MERN App) [Website Link](https://srishticoursera.vercel.app/)
 
 ![Main Page](images/mainpage.png)
 
 ## Project Description
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+SrishtiCoursera is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
 StudyNotion aims to provide:
@@ -30,7 +30,7 @@ tools used.
 explanation of how these enhancements would improve the platform, estimated
 timeline and priority for implementing these enhancements.
 
-In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to
+In summary, it is a versatile and intuitive ed-tech platform that is designed to
 provide an immersive learning experience to students and a platform for instructors to
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
@@ -38,7 +38,7 @@ features and functionalities.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+Its ed-tech platform consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
@@ -172,7 +172,7 @@ and provides an optimal user experience for all its users.
 
 ## API Design
 
-The StudyNotion platform's API is designed following the REST architectural style. The
+The SrishtiCoursera platform's API is designed following the REST architectural style. The
 API is implemented using Node.js and Express.js. It uses JSON for data exchange and
 follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 Sample list of API endpoints and their functionalities: 
@@ -202,7 +202,7 @@ Sample API requests and responses:
 5. DELETE /api/courses/:id: Delete a course by ID
    * Response: A success message indicating that the course has been deleted.
 
-In conclusion, the REST API design for the StudyNotion ed-tech platform is a crucial part
+In conclusion, the REST API design for the SrishtiCoursera ed-tech platform is a crucial part
 of the project. The API endpoints and their functionalities are designed to ensure seamless
 communication between the front-end and back-end of the application. By following
 RESTful principles, the API will be scalable, maintainable, and reliable. The sample API
@@ -210,7 +210,10 @@ requests and responses provided above illustrate how each endpoint will function
 what kind of data it will accept or return. With this API design, StudyNotion will be able to
 provide a smooth user experience while ensuring security and stability.
 
-#   n  
- #   n  
- #   n  
+#   n 
+ 
+ #   n 
+ 
+ #   n 
+ 
  
